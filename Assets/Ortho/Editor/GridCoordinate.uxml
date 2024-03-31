@@ -1,0 +1,4 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Ortho/Editor/GridCoordinate.uss?fileID=7433441132597879392&amp;guid=7b88dc826ec75ba49bd85e3db11d0c87&amp;type=3#GridCoordinate" />
+    <ui:Vector3Field label="Vec3 Field" name="Position" />
+</ui:UXML>

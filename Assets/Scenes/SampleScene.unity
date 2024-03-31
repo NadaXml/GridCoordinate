@@ -171,6 +171,7 @@ MonoBehaviour:
   SceneCamera: {fileID: 330585545}
   BgSpace: {fileID: 257525709}
   ModelSpace: {fileID: 485238511}
+  capsule: {fileID: 1582541300}
   testPoint: {fileID: 1762039442}
 --- !u!114 &145818304
 MonoBehaviour:
@@ -708,7 +709,7 @@ Transform:
   m_GameObject: {fileID: 1582541299}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 10, y: 0, z: 0.1}
+  m_LocalPosition: {x: 0.7, y: 0, z: 7.6}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -912,7 +913,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0, g: 0, b: 0, a: 0.49803922}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1

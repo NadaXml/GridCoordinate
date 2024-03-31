@@ -9,6 +9,7 @@ public class ProjCoordinate : MonoBehaviour {
     public Camera SceneCamera;
     public Transform BgSpace;
     public Transform ModelSpace;
+    public Transform capsule;
     /// <summary>
     /// 没有转成斜坐标系的坐标系点
     /// </summary>
